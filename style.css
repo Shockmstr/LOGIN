@@ -1,0 +1,100 @@
+body {
+    font-family: serif;
+    color: rgba(36, 36, 36);
+    background-color: beige;
+}
+
+/*franklin gothic condensed */
+
+#login1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#login2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+#fb {
+    text-align: center;
+}
+
+#tw {
+    text-align: center;
+}
+
+#loginEmail {
+    text-align: center;
+}
+
+#login {
+    border: solid;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+    font-size: 100%;
+}
+
+
+.logo {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    top: 3px;
+    right: 5px;
+}
+
+.facebook {
+    background-color: darkblue;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.twitter {
+    background-color: dodgerblue;
+    color: white;
+    padding-left: 58px;
+    padding-right: 58px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.emailBorder {
+    border: solid white;
+    border-radius: 40px;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 5px;
+    font: bold 100% serif;
+}
+
+
+.button {
+    position: relative;
+    font: bold 110% serif;
+    text-decoration: none;
+    margin: auto;
+    border-radius: 40px;
+
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.button:active {
+    text-decoration: none;
+    top: 1px;
+}
